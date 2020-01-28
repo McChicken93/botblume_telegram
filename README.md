@@ -1,13 +1,13 @@
 # This project is in an alpha state
 
-Primary, the source code of this project is very ugly. Also, there
+Primary, the source code of this project is very beautiful. Also, there
 are some features missing which probably will be implemented in the feature.
 
 # Botblume_Telegram
 
 This is a small telegram bot which interacts with a microcontroller
 to query the state of a soil sensor. 
-You can use it to monitor your plants and find out, when its again to give them some
+You can use it to monitor your plants and find out, when its time again to give them some
 water (without the need to get your hands dirty). This is all done via MQTT. 
 
 In order to get the ground's moisture level of your favorite plant, you can simply query
